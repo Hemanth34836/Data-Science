@@ -2,7 +2,7 @@ This repository contains a diverse range of data science projects, demonstrating
 
 Project Highlights
 
-Online Sales
+1) Online Sales
 
 Sales Trend Analysis:Analyzed historical sales data to uncover trends in revenue, order volume, and seasonality.
 Identified top-performing products, regions, and customer segments.
@@ -13,7 +13,7 @@ Performed feature engineering to include seasonal trends, promotional events, an
 Profitability Analysis:Investigated the relationship between discounts and profit margins.
 Visualized the trade-offs between promotional activities and profitability using Seaborn.
 
-Weather Forecasting
+2) Weather Forecasting
 
 Exploratory Data Analysis (EDA)
 Analyzed historical weather data, identifying patterns in temperature, precipitation, and wind speed.
